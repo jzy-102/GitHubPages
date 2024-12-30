@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "这里是 江子怡 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "江子怡, Jzy, Jzy, 怡, jzy-102, jzy, 江子怡的博客, Jzy Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://jzy-102/githubpages.com" # your host, for absolute URL
+url: "https://jzy-102.github.io/githubpages/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
